@@ -1,0 +1,13 @@
+
+user name =no space => ato z only 4 char minnimum 
+password =1229nsidudt@1=>minnum 4 numbr
+
+poovarasan:
+roll number = 12332422
+dob =130899
+get mark
+
+rollnum=1234
+name=poovarasan
+total=499
+res=pass
